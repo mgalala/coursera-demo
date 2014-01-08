@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stroustrup &amp; Gosling</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="portrait_title">Bjarne Stroustrup</string>
+    <string name="stro_img_desc"> is a Danish computer scientist, most notable for the creation and development of the widely used C++ programming language.
+        He is currently Professor and holder of the College of Engineering Chair in Computer Science at Texas A&amp;M University.
+        \n
+        Stroustrup has a master\'s degree in mathematics and computer science (1975) from Aarhus University, Denmark, and a Ph.D. in computer science (1979) from the University of Cambridge, England,
+        where he was a student at Churchill College. His thesis advisor in Cambridge was David Wheeler.
+        \n
+        (Text from Wikipedia)
+    </string>
+
+    <string name="land_title">James Gosling</string>
+    <string name="gosling_description"> is a Canadian computer scientist, best known as the father of the Java programming language.
+        \n
+        In 1977, Gosling received a Bachelor of Science in Computer Science from the University of Calgary.
+        In 1983, he earned a Ph.D in Computer Science from Carnegie Mellon University, supervised by Bob Sproull.
+        While working towards his doctorate, he wrote a version of Emacs called Gosling Emacs (Gosmacs),
+        and before joining Sun Microsystems he built a multi-processor version of Unix while at Carnegie Mellon University,
+        as well as several compilers and mail systems.\n(Text from Wikipedia)
+    </string>
+
+</resources>
