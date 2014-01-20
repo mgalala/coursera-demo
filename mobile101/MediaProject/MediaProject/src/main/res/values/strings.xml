@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Media Project</string>
+    <string name="lyrics">Don’t call me darlin’ \n
+Don’t call me babe \n
+Cuz I’m not your darlin’\n
+And I never will be \n
+All your sweet nothings\n
+Mean nothing to me \n
+So don’t call me darlin’\n
+It ain’t that easy \n
+\n
+You saw something you wanted\n
+Made a strategy \n
+But your eyes wander all over\n
+It’s no mystery \n
+But baby older don’t mean wiser\n
+And your smile don’t make you’re kind,\n
+Oh your disguise don’t mean you’re hiding a thing, oh\n
+\n
+Don’t call me darlin, I won’t be coming around tonight\n
+I know your kindness comes with second intentions \n
+Some cannot see through you&#8212; let me do you a solid \n
+And point you the other way \n
+Baby, don’t call me darlin today\n
+\n
+You think you’ll hit your target\n
+If you keep on firing \n
+So sure that I’m gonna soften up\n
+To you over time \n
+\n
+But baby stronger don’t mean smarter\n
+When you push you push me farther, \n
+All that flattery won’t get you to me, oh</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="image_desc">softfocus cover art</string>
+
+</resources>
