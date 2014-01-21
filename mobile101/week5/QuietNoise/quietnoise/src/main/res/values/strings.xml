@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiet Noise</string>
+    <string name="lighting">Lighting</string>
+    <string name="Wind">Wind</string>
+    <string name="water">Water Dripping</string>
+    <string name="instruction">Click on row to play sound</string>
+
+</resources>
